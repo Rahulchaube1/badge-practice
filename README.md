@@ -24,3 +24,4 @@ PR #5 - Continuing Pull Shark badge progress.
 
 PR #6 - GitHub open source contributions tracker.
 PR #7 - AI research milestone tracking.
+PR #8 - LLM architecture documentation notes.
