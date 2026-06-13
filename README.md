@@ -9,7 +9,6 @@ Working on earning GitHub badges together!
 Collaborating with amazing contributors!
 
 ## Getting Started
-
 This project is open for contributions. Feel free to fork and create pull requests to help improve the codebase together.
 
 ## Badge Goals
@@ -28,3 +27,4 @@ PR #8 - LLM architecture documentation notes.
 PR #9 - Cloud infrastructure patterns.
 PR #10 - Web development best practices.
 PR #11 - API integration patterns and REST design.
+PR #12 - Docker container orchestration guide.
