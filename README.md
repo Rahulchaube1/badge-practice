@@ -27,3 +27,4 @@ PR #7 - AI research milestone tracking.
 PR #8 - LLM architecture documentation notes.
 PR #9 - Cloud infrastructure patterns.
 PR #10 - Web development best practices.
+PR #11 - API integration patterns and REST design.
