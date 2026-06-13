@@ -15,3 +15,8 @@ This project is open for contributions. Feel free to fork and create pull reques
 ## Badge Goals
 
 Working hard to earn GitHub achievement badges through consistent contributions and collaboration.
+
+
+## Pull Shark Progress
+
+PR #4 - Earning Pull Shark badge systematically.
