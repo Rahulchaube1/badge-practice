@@ -33,3 +33,4 @@ PR #13 - Kubernetes deployment strategies.
 PR #14 - Machine learning model training notes.
 PR #15 - Deep learning neural network architectures.
 PR #16 - BRONZE Pull Shark achieved! Open source contribution milestone.
+PR #18 - YOLO Badge PR 1 - Merging without review.
