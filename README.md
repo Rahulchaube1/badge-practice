@@ -55,3 +55,5 @@ PR #26 - Pair Extraordinaire Badge 6 - Co-authored contribution.
 PR #27 - Pair Extraordinaire Badge 7 - Co-authored contribution.
 
 PR #28 - Pair Extraordinaire Badge 8 - Co-authored contribution.
+
+PR #29 - Pair Extraordinaire Badge 9 - BRONZE tier milestone co-authored PR.
