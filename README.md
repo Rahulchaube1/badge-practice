@@ -71,3 +71,5 @@ PR #34 - Pair Extraordinaire BRONZE achieved! 10th co-authored PR milestone.
 PR #35 - Pull Shark Silver: PyTorch model training tips and best practices.
 
 PR #36 - Cloud computing best practices: GCP, Azure, AWS comparison guide.
+
+PR #37 - Generative AI concepts: LLMs, embeddings, and vector databases overview.
