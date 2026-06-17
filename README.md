@@ -51,3 +51,5 @@ PR #24 - Pair Extraordinaire Badge 4 - Co-authored contribution for badge progre
 PR #25 - Pair Extraordinaire Badge 5 - Co-authored progress toward Bronze tier.
 
 PR #26 - Pair Extraordinaire Badge 6 - Co-authored contribution.
+
+PR #27 - Pair Extraordinaire Badge 7 - Co-authored contribution.
