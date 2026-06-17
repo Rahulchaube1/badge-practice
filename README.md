@@ -75,3 +75,5 @@ PR #36 - Cloud computing best practices: GCP, Azure, AWS comparison guide.
 PR #37 - Generative AI concepts: LLMs, embeddings, and vector databases overview.
 
 PR #38 - Web scraping with Python: BeautifulSoup and Playwright tutorial.
+
+PR #39 - API design best practices: REST vs GraphQL vs gRPC comparison.
