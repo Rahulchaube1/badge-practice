@@ -63,3 +63,5 @@ PR #30 - Pull Shark Silver progress - milestone contribution.
 PR #31 - Pull Shark Silver progress - AI tooling integration notes.
 
 PR #32 - Cloud deployment patterns and CI/CD pipeline notes.
+
+PR #33 - Open source LLM integration strategies and framework notes.
