@@ -47,3 +47,5 @@ PR #22 - Pair Extraordinaire Badge 2 - Co-authored with Cursor Agent.
 PR #23 - Pair Extraordinaire Badge 3 - Final co-authored commit.
 
 PR #24 - Pair Extraordinaire Badge 4 - Co-authored contribution for badge progress.
+
+PR #25 - Pair Extraordinaire Badge 5 - Co-authored progress toward Bronze tier.
