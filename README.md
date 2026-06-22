@@ -124,3 +124,14 @@ PR #77 - Cloud networking: VPCs, subnets, load balancers, and CDN configuration.
 PR #78 - DevSecOps: integrating security scanning into CI/CD pipelines.
 PR #79 - Prompt engineering: few-shot, chain-of-thought, and RAG techniques.
 PR #80 - Distributed tracing: Jaeger, Zipkin, and OpenTelemetry implementation.
+
+PR #81 - Edge computing with Cloudflare Workers and Durable Objects.
+PR #82 - API gateway patterns: rate limiting, authentication, and routing.
+PR #83 - Rust for Python developers: ownership, borrowing, and async runtime.
+PR #84 - Feature flags: LaunchDarkly and self-hosted flag management.
+PR #85 - Chaos engineering: fault injection and resilience testing with Gremlin.
+PR #86 - Data streaming with Apache Flink and real-time analytics pipelines.
+PR #87 - Zero-trust security: implementing BeyondCorp principles in modern apps.
+PR #88 - Database sharding strategies: horizontal scaling patterns and pitfalls.
+PR #89 - Service mesh with Istio: traffic management, observability, mTLS.
+PR #90 - Synthetic monitoring: uptime checks and performance baselines with k6.
