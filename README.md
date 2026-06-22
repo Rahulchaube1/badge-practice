@@ -113,3 +113,14 @@ PR #67 - Vector databases: Pinecone, Weaviate, Chroma for RAG applications.
 PR #68 - FastAPI advanced patterns: dependency injection, middleware, OpenAPI.
 PR #69 - Cloud cost optimization: FinOps strategies for GCP, AWS, Azure.
 PR #70 - Observability stack: OpenTelemetry, tracing, and distributed systems.
+
+PR #71 - MLOps with MLflow: experiment tracking, model registry, deployment.
+PR #72 - Kubernetes operators: extending K8s with custom resources and controllers.
+PR #73 - GitHub Actions advanced: matrix builds, caching, and reusable workflows.
+PR #74 - WebAssembly: running Python and Rust in the browser with WASM.
+PR #75 - AI agents with LangChain: tools, memory, and multi-agent orchestration.
+PR #76 - Database migrations: Alembic with SQLAlchemy patterns and best practices.
+PR #77 - Cloud networking: VPCs, subnets, load balancers, and CDN configuration.
+PR #78 - DevSecOps: integrating security scanning into CI/CD pipelines.
+PR #79 - Prompt engineering: few-shot, chain-of-thought, and RAG techniques.
+PR #80 - Distributed tracing: Jaeger, Zipkin, and OpenTelemetry implementation.
