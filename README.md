@@ -96,3 +96,9 @@ PR #52 - GraphQL schema design and resolver optimization techniques.
 PR #53 - Microservices architecture patterns and service mesh overview.
 PR #54 - Redis caching strategies and pub/sub messaging patterns.
 PR #55 - Testing strategies: unit, integration, e2e with pytest and Jest.
+
+PR #56 - WebSocket real-time communication: Socket.io and WebSocket API guide.
+PR #57 - Terraform infrastructure as code: managing cloud resources with HCL.
+PR #58 - Prometheus and Grafana: monitoring and alerting for production systems.
+PR #59 - OAuth2 and OpenID Connect: authentication flows and JWT deep dive.
+PR #60 - Serverless architecture: AWS Lambda, Azure Functions, and GCP Cloud Run.
