@@ -90,3 +90,9 @@ PR #47 - Python async programming: asyncio patterns and best practices.
 PR #48 - React hooks deep dive: useState, useEffect, useContext guide.
 PR #49 - Database optimization: indexing strategies and query performance.
 PR #50 - Security best practices: OWASP top 10 and secure coding guide.
+
+PR #51 - System design fundamentals: scalability, availability, consistency.
+PR #52 - GraphQL schema design and resolver optimization techniques.
+PR #53 - Microservices architecture patterns and service mesh overview.
+PR #54 - Redis caching strategies and pub/sub messaging patterns.
+PR #55 - Testing strategies: unit, integration, e2e with pytest and Jest.
