@@ -146,3 +146,14 @@ PR #97 - GitHub Codespaces: cloud development environments and devcontainers.
 PR #98 - Helm charts: packaging and deploying Kubernetes applications at scale.
 PR #99 - Open source AI tools: Ollama, LM Studio, and local LLM deployment.
 PR #100 - Pull Shark Silver Milestone: 100 PRs merged in badge-practice repo!
+
+PR #101 - Quantum computing basics: Qiskit and quantum circuit simulation.
+PR #102 - Model Context Protocol (MCP): building AI tool integrations.
+PR #103 - GitHub Models: running LLMs directly from GitHub repos.
+PR #104 - Agentic AI patterns: planning, tool use, and memory for AI agents.
+PR #105 - Neo4j graph databases: knowledge graphs and graph algorithms.
+PR #106 - eBPF tracing: kernel-level observability without instrumentation.
+PR #107 - Deno and Bun: modern JavaScript runtimes vs Node.js comparison.
+PR #108 - API versioning strategies: URL, header, and content negotiation.
+PR #109 - Pull Shark Silver: approaching 128 total merged PRs milestone!
+PR #110 - GitHub Advanced Security: CodeQL, secret scanning, and Dependabot.
