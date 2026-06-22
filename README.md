@@ -157,3 +157,14 @@ PR #107 - Deno and Bun: modern JavaScript runtimes vs Node.js comparison.
 PR #108 - API versioning strategies: URL, header, and content negotiation.
 PR #109 - Pull Shark Silver: approaching 128 total merged PRs milestone!
 PR #110 - GitHub Advanced Security: CodeQL, secret scanning, and Dependabot.
+
+PR #111 - Cursor IDE mastery: AI pair programming with custom rules and agents.
+PR #112 - Windsurf and Agentic coding: autonomous code generation workflows.
+PR #113 - Model fine-tuning with Hugging Face: training and deploying custom LLMs.
+PR #114 - GitHub Copilot Workspace: AI-driven development from issue to PR.
+PR #115 - Open source contribution: navigating large codebases and getting started.
+PR #116 - Python packaging: Poetry, pyproject.toml, and publishing to PyPI.
+PR #117 - Type safety in Python: mypy, Pydantic v2, and runtime validation.
+PR #118 - AI code generation: best practices for LLM-assisted software development.
+PR #119 - Cloud Run and App Engine: serverless containers on Google Cloud Platform.
+PR #120 - Pull Shark Silver ACHIEVED: 128+ merged PRs across all repositories!
