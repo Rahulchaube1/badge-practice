@@ -77,3 +77,11 @@ PR #37 - Generative AI concepts: LLMs, embeddings, and vector databases overview
 PR #38 - Web scraping with Python: BeautifulSoup and Playwright tutorial.
 
 PR #39 - API design best practices: REST vs GraphQL vs gRPC comparison.
+
+PR #40 - GitHub Actions and CI/CD automation with reusable workflows.
+PR #41 - Docker containerization and Kubernetes orchestration notes.
+PR #42 - Machine learning model deployment with FastAPI and Docker.
+PR #43 - GitHub Copilot and AI pair programming productivity tips.
+PR #44 - Open source contribution guide: finding issues and submitting PRs.
+PR #45 - TypeScript best practices and type safety patterns.
+PR #46 - Pull Shark Silver progress: advancing toward 128 merged PRs.
