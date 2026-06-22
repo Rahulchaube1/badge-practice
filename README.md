@@ -102,3 +102,14 @@ PR #57 - Terraform infrastructure as code: managing cloud resources with HCL.
 PR #58 - Prometheus and Grafana: monitoring and alerting for production systems.
 PR #59 - OAuth2 and OpenID Connect: authentication flows and JWT deep dive.
 PR #60 - Serverless architecture: AWS Lambda, Azure Functions, and GCP Cloud Run.
+
+PR #61 - Event-driven architecture with Apache Kafka and RabbitMQ.
+PR #62 - Performance optimization: profiling Python and Node.js applications.
+PR #63 - GitHub CLI mastery: automating workflows from the terminal.
+PR #64 - Container security: Docker image scanning and runtime protection.
+PR #65 - Data pipeline design with Apache Airflow and Prefect.
+PR #66 - LLM fine-tuning: LoRA, QLoRA, and PEFT techniques with PyTorch.
+PR #67 - Vector databases: Pinecone, Weaviate, Chroma for RAG applications.
+PR #68 - FastAPI advanced patterns: dependency injection, middleware, OpenAPI.
+PR #69 - Cloud cost optimization: FinOps strategies for GCP, AWS, Azure.
+PR #70 - Observability stack: OpenTelemetry, tracing, and distributed systems.
