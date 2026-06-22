@@ -135,3 +135,14 @@ PR #87 - Zero-trust security: implementing BeyondCorp principles in modern apps.
 PR #88 - Database sharding strategies: horizontal scaling patterns and pitfalls.
 PR #89 - Service mesh with Istio: traffic management, observability, mTLS.
 PR #90 - Synthetic monitoring: uptime checks and performance baselines with k6.
+
+PR #91 - Multi-cloud architecture: avoiding vendor lock-in with abstraction layers.
+PR #92 - gRPC and Protocol Buffers: high-performance microservices communication.
+PR #93 - AI-assisted code review: integrating LLMs into GitHub Actions workflows.
+PR #94 - Blockchain development: Solidity smart contracts and Web3.py integration.
+PR #95 - SLO/SLA management: error budgets, burn rates, and alerting policies.
+PR #96 - PostgreSQL advanced: JSONB, full-text search, and query optimization.
+PR #97 - GitHub Codespaces: cloud development environments and devcontainers.
+PR #98 - Helm charts: packaging and deploying Kubernetes applications at scale.
+PR #99 - Open source AI tools: Ollama, LM Studio, and local LLM deployment.
+PR #100 - Pull Shark Silver Milestone: 100 PRs merged in badge-practice repo!
